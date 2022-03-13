@@ -1,27 +1,35 @@
+
 # Infinity.gg-Deobfuscator
+
 Full deobfuscator for all Infinity.gg tools
 
-I wrote this in about 30 minutes, nothing special.
 
-Incase stalky updates his obfuscation, I will update the deobfuscator
+## Acknowledgements
 
+ - To stalky: don't take this seriously, it was just a fun project :P
+## Authors
 
+- Instinct
 
-Things planned to be added:
-Themida Dumper
+## FAQ
 
+#### How do I use this?
 
+Dump the program with a dumper, then deobfuscate it via the deobfuscator
 
-
-
-
-
-
-
-
+visual representation: 
+https://streamable.com/0lhvw9
 
 
+#### Will this get updated?
+
+Yes, if stalky tries to modify his obfuscation, I will update this tool
 
 
-Stalky, if you read this, please don't take it seriously, it was a fun project :P
 
+
+
+
+## Roadmap
+
+- Automatic Themida Dumper
